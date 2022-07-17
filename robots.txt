@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-ajaib-hk.github.io/ajaib-2/sitemap.xml
